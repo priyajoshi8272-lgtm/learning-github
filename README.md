@@ -1,2 +1,3 @@
 # learning-github
 this is my first git repository
+Author-priya joshi
